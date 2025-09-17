@@ -1,0 +1,5 @@
+{
+  "name": "KEEPUP BI Dashboard",
+  "description": "A business intelligence dashboard for the KEEPUP CRM & Loyalty Platform, providing real-time insights into customer behavior, business performance, and operational efficiency, as specified in the Software Requirements Specification.",
+  "requestFramePermissions": []
+}
